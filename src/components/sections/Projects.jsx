@@ -35,8 +35,10 @@ export const Projects = () => {
                 </div>
                 <div className="flex justify-between items-center">
                   <a
-                    href="#"
-                    className="text-blue-400 hover:tet-blue-300 transition-colors my-4"
+                    href="https://agend-71d57.web.app/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                   >
                     {" "}
                     Ver Projeto ⮕{" "}
@@ -66,7 +68,9 @@ export const Projects = () => {
                 </div>
                 <div className="flex justify-between items-center">
                   <a
-                    href="#"
+                    href="https://carlos-dta.github.io/MyLinkDev/"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="text-blue-400 hover:tet-blue-300 transition-colors my-4"
                   >
                     {" "}
