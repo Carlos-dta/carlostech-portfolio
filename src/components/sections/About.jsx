@@ -79,21 +79,20 @@ export const About = () => {
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Software Enginner at ABC Corp (2025 - Atual)
+                    {/* Colocar aqui o conteúdo de experiência */}
                   </h4>
                   <p>
-                    Developed and maintained microservices for cloud-based
-                    applications.
+                    {/* Colocar aqui o conteúdo de experiência */}
                   </p>
                 </div>
                 <div>
                   <h4 className="font-semibold">
                     {" "}
-                    Intern at DEF Startups (2019)
+                    {/* Colocar aqui o conteúdo de experiência */}
+
                   </h4>
                   <p>
-                    Assisted in building front-end components and integration
-                    REST APIs
+                    {/* Colocar aqui o conteúdo de experiência */}
                   </p>
                 </div>
               </div>
